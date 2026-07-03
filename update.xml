@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='khllaejkcmonbekkakldnafpibgjidbe'>
-    <updatecheck codebase='https://wildernessadmin.github.io/maps_to_salesforce_2.0/Maps-Salesforce-Extension.crx' version='1.1.4' />
+    <updatecheck codebase='https://wildernessadmin.github.io/maps_to_salesforce_testing/Maps-Salesforce-Extension.crx' version='1.1.4' />
   </app>
 </gupdate>
